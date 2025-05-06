@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 create Database BACKENDPHP;
 
 use BACKENDPHP;
@@ -20,3 +21,6 @@ select
     *
 from
     One;
+=======
+select * from One;
+>>>>>>> cb652a7a77744a52665f0ee352f3bc4b56b7ab8f
