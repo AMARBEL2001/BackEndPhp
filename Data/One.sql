@@ -20,6 +20,150 @@ values
 select
     *
 from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
+    One;insert into
+    One(name, age, email)
+values
+    ('John Doe', 30) ; 
+
+
+select
+    *
+from
     One;
 =======
 select * from One;
